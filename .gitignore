@@ -1,0 +1,14 @@
+# Created by https://www.toptal.com/developers/gitignore/api/flask
+# Edit at https://www.toptal.com/developers/gitignore?templates=flask
+
+
+# Environments
+.env
+env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
